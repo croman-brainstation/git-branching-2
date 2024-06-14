@@ -7,4 +7,9 @@
 body {
   margin: 0;
   background-color: crimson;
+}
+
+p {
+  color: white;
+  font-size: 2rem;
 }/*# sourceMappingURL=main.css.map */
